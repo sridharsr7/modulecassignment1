@@ -215,7 +215,6 @@ form .btn-success:hover {
   color: #f9f9f9;
 }
 
-/* MEDIA QUERIES */
 @media (max-width: 768px) {
   .col h2 {
     font-size: 2.3rem;
